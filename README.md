@@ -1,3 +1,4 @@
 # Calculadora
-Calculadora das 4 operações principais (soma, subtração, multiplicação e divisão).
+Calculadora das 4 operações principais (soma, subtração, multiplicação e divisão) para 2 números.
+
 É programada para sempre retornar a pergunta da operação a ser feita quando não é inserido qualquer um dos comandos de operação. Quando a operação é realizada corretamente, o código é finalizado.
